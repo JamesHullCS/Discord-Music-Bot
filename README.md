@@ -24,10 +24,10 @@ Otherwise to get voice support you should run the following command:
 Python 3.5.3 or higher is required 
 
 #### Linux/macOS ####
-python3 -m pip install -U discord.py[voice]
+```python3 -m pip install -U discord.py[voice] ```
 
 #### Windows ####
-py -3 -m pip install -U discord.py[voice]
+``` py -3 -m pip install -U discord.py[voice] ```
 
 #### If any errors accure use the offical github repository for installation help below ###
 [Discord.py](https://github.com/Rapptz/discord.py)
