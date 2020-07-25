@@ -21,8 +21,6 @@ Otherwise to get voice support you should run the following command:
 
 ### Installing Discord.py ###
 
-### youtube.tl ###
-
 Python 3.5.3 or higher is required 
 
 #### Linux/macOS ####
@@ -35,3 +33,6 @@ Python 3.5.3 or higher is required
 [Discord.py](https://github.com/Rapptz/discord.py)
 
 ### Install verison of FFmpeg ###
+
+### youtube.tl ###
+``` python -m install -U youtube_dl ```
