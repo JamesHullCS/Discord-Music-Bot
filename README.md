@@ -15,3 +15,18 @@ Test Python has successfully installed by going to Terminal and typing Python. I
 
 * Test PIP (Preferred Installer Program)
     * Type pip or pip3 into your terminal and if you don't get an error like this then you're good to go "pip is not recognized as an internal or external command, operable program or batch file.".
+
+Otherwise to get voice support you should run the following command:
+
+# Installing Discord.py
+
+Python 3.5.3 or higher is required 
+
+# Linux/macOS #
+python3 -m pip install -U discord.py[voice]
+
+# Windows #
+py -3 -m pip install -U discord.py[voice]
+
+# If any errors accure use the offical github repository for installation help below
+[Discord.py](https://github.com/Rapptz/discord.py)
