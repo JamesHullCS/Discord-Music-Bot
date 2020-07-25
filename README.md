@@ -31,3 +31,5 @@ Python 3.5.3 or higher is required
 
 #### If any errors accure use the offical github repository for installation help below ###
 [Discord.py](https://github.com/Rapptz/discord.py)
+
+### Install verison of FFmpeg ###
